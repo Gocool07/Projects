@@ -1,0 +1,5 @@
+com\springcrudsql\bean\User.class
+com\springcrudsql\controller\UserController.class
+com\springcrudsql\service\UserService.class
+com\springcrudsql\SpringcrudsqlApplication.class
+com\springcrudsql\repository\UserRepository.class
