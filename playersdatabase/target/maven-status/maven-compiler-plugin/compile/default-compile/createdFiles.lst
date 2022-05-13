@@ -1,0 +1,5 @@
+com\playersdatabase\controller\PlayersController.class
+com\playersdatabase\service\PlayersService.class
+com\playersdatabase\bean\Players.class
+com\playersdatabase\PlayersApplication.class
+com\playersdatabase\repository\PlayersRepository.class
